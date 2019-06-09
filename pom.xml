@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>12</java.version>
-        <version.retrofit>2.3.0</version.retrofit>
+        <version.retrofit>2.5.0</version.retrofit>
         <version.converter.jackson>2.3.0</version.converter.jackson>
         <version.converter.gson>2.3.0</version.converter.gson>
 
